@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Unity_Heightmesh-0.1.0";
 const contentToCache = [
-    "Build/5_3_22_1.loader.js",
-    "Build/5_3_22_1.framework.js",
-    "Build/5_3_22_1.data",
-    "Build/5_3_22_1.wasm",
+    "Build/5_3_22_3.loader.js",
+    "Build/5_3_22_3.framework.js",
+    "Build/5_3_22_3.data",
+    "Build/5_3_22_3.wasm",
     "TemplateData/style.css"
 
 ];
